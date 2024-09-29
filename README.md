@@ -6,11 +6,10 @@ JavaScript is a **programming language** used to create interactive effects insi
 1. [what is JavaScript?](#what-is-javascript)
 2. [Setting up JavaScript](#setting-up-javascript)
 3. [Comments](#comments)
-4. [Arithmetic](#arithmetic)
+4. [Arithmetics](#arithmetics)
 5. [Adding JavaScript to a Web Page](#adding-javascript-to-a-web-page)
 3. [Introduction of data type](#introduction-to-data-types)
-4. [variables]()
-4. [Operators](#operators)
+4. [variables](#variables)
 5. [Control Structures](#control-structures)
 6. [Functions](#functions)
 7. [DOM Manipulation](#dom-manipulation)
@@ -487,32 +486,6 @@ console.log(name, job, live)
 
 ```sh
 Asabeneh teacher Finland
-```
-
-When you run _index.html_ file in the 01-Day folder you should get this:
-
-![Day one](./images/day_1.png)
-
-🌕 You are amazing! You have just completed day 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscle.
-
-# 💻 Day 1: Exercises
-
-1. Write a single line comment which says, _comments can make code readable_
-2. Write another single comment which says, _Welcome to 30DaysOfJavaScript_
-3. Write a multiline comment which says, _comments can make code readable, easy to reuse_
-   _and informative_
-
-4. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types
-5. Create datatypes.js file and use the JavaScript **_typeof_** operator to check different data types. Check the data type of each variable
-6. Declare four variables without assigning values
-7. Declare four variables with assigned values
-8. Declare variables to store your first name, last name, marital status, country and age in multiple lines
-9. Declare variables to store your first name, last name, marital status, country and age in a single line
-10. Declare two variables _myAge_ and _yourAge_ and assign them initial values and log to the browser console.
-
-```sh
-I am 25 years old.
-You are 30 years old.
 ```
 
 

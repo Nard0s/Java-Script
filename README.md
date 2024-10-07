@@ -1,5 +1,5 @@
 ![JS](img/JavaScript-Symbol.png)
-# Introduction to JavaScript
+# Introduction tofcv JavaScript
 
 JavaScript is a **programming language** used to create interactive effects inside web browsers. It is one of the core technologies of the web, alongside HTML and CSS.
 ## Table of Contents

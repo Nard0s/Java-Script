@@ -483,9 +483,20 @@ console.log(gravity, boilingPoint, PI)
 let name = 'Asabeneh', job = 'teacher', live = 'Finland'
 console.log(name, job, live)
 ```
+ ## Control Structures
 
-```sh
-Asabeneh teacher Finland
-```
+Control structures allow you to control the flow of code based on conditions or repetitive tasks.
+
+# 1. Conditional Statements
+
+### `if` Statement
+Executes a block of code if a specified condition is `true`.
+
+```javascript
+if (condition) {
+  // code to execute if condition is true
+}
+
+
 
 

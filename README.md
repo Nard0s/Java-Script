@@ -496,7 +496,8 @@ Executes a block of code if a specified condition is `true`.
 if (condition) {
   // code to execute if condition is true
 }
-## if...else Statement
+```
+ ##  if...else Statement
 
 The `if...else` statement is used to execute code based on a condition. If the condition is `true`, the code inside the `if` block runs. If it’s `false`, the code inside the `else` block executes.
 

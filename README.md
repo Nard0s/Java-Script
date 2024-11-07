@@ -491,7 +491,7 @@ Control structures allow you to control the flow of code based on conditions or 
 
 ### `if` Statement
 Executes a block of code if a specified condition is `true`.
-
+#### Syntax
 ```javascript
 if (condition) {
   // code to execute if condition is true
@@ -504,6 +504,7 @@ if (age >= 18) {
   console.log("You are eligible to vote.");
 }
 // Output: You are eligible to vote.
+```
 
 
  ##  if...else Statement
@@ -518,7 +519,19 @@ if (condition) {
 } else {
   // code to execute if the condition is false
 }
-Example
+```
+### Example
+```js
+let score = 85;
+if (score >= 90) {
+  console.log("Grade: A");
+} else if (score >= 80) {
+  console.log("Grade: B");
+} else {
+  console.log("Grade: C or lower");
+}
+```
+
 
 
 

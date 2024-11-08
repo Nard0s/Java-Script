@@ -531,7 +531,32 @@ if (score >= 90) {
   console.log("Grade: C or lower");
 }
 ```
-
+## `switch` Statement
+The `switch` statement is useful when you have multiple possible values for a variable and want to execute different code depending on the value. Each case in the `switch` statement corresponds to a possible value.
+### Example
+```js
+let day = 3;
+switch (day) {
+  case 1:
+    console.log("Monday");
+    break;
+  case 2:
+    console.log("Tuesday");
+    break;
+  case 3:
+    console.log("Wednesday");
+    break;
+  case 4:
+    console.log("Thursday");
+    break;
+  case 5:
+    console.log("Friday");
+    break;
+  default:
+    console.log("Weekend");
+}
+// Output: Wednesday
+```
 
 
 

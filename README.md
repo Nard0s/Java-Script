@@ -203,7 +203,7 @@ Create a project folder on your desktop or in any location, name it 30DaysOfJS a
     <title>30DaysOfScript:Inline Script</title>
   </head>
   <body>
-    <button onclick="alert('Welcome to 30DaysOfJavaScript!')">Click Me</button>
+    <button onclick="alert('Welcome to Techtonic')">Click Me</button>
   </body>
 </html>
 ```
@@ -221,7 +221,7 @@ First, let us write on the head part of the page.
   <head>
     <title>30DaysOfScript:Internal Script</title>
     <script>
-      console.log('Welcome to 30DaysOfJavaScript')
+      console.log('Welcome to Techtonic')
     </script>
   </head>
   <body></body>
@@ -462,7 +462,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Asabeneh Yetayeh Finland Helsinki 100 true
+Nardos Anteneh Ethiopia Addis Ababa 100 true
 ```
 
 ```js
@@ -480,7 +480,7 @@ console.log(gravity, boilingPoint, PI)
 
 ```js
 // Variables can also be declaring in one line separated by comma, however I recommend to use a seperate line to make code more readble
-let name = 'Asabeneh', job = 'teacher', live = 'Finland'
+let name = 'Nardos', job = 'Student', live = 'Ethiopa'
 console.log(name, job, live)
 ```
  ## Control Structures

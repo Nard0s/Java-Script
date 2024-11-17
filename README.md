@@ -26,7 +26,7 @@ JavaScript is the language that adds functionality to a website. With it, you ca
 ## Setting up JavaScript
 
 ### Install Node.js
-You may not need Node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/).
+You may not need Node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/). 
 
 ![install node](img/Screenshot%202024-09-28%20114825.png)
 
